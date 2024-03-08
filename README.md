@@ -1,7 +1,7 @@
-#  **Shopping cart using ReactJS and Redux Toolkit**
+#  e-commerece-app-using-react
 
-This is shopping cart🛒 project built using **ReactJS** and **Redux Toolkit**.
-I used **TailwindCSS** to style the webpage. The design is completely **responsive**.
+This is e-commerece app using react 🛒 using **ReactJS**, **TailwindCSS** and **Redux Toolkit**.
+
 
 ##### Project Link: https://reduxtoolkit-shopping-cart.netlify.app/
 
